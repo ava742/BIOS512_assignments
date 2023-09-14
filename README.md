@@ -1,6 +1,2 @@
-# BIOS512
+# BIOS512_assignments
 Fall 2023
-### Welcome to this 'REPO'
-
-# Heading 1
-## Heading 2
